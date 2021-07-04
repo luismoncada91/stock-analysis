@@ -16,7 +16,9 @@ Module 2 practices
 ## Summary
 
 ### Advantages and Disadvantages of refactoring code in general.
-### I think there are more advantages than disadvantages by refactoring a code, first the code will run fastier due to efficiency, the code will look cleaner and more organized. 
+### I think there are more advantages than disadvantages by refactoring a code, first the code will run fastier due to efficiency of the software, also the code will look cleaner and more organized. 
+
+![vba_first_timer](https://github.com/luismoncada91/stock-analysis/blob/main/Resources/First_Timing.png)
 
 ![vba_timer](https://github.com/luismoncada91/stock-analysis/blob/main/Resources/Refactored_Timing.png)
 
