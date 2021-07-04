@@ -11,13 +11,13 @@ Module 2 practices
 
 * Using VBA is very useful to process information in a more efficient/quick way, using formats, and the button, might be very helpful for all who are interested to see the analysis with just one click. 
 
-! [first_vba_code](.First_code.png)
+! [first_vba_code](https://github.com/luismoncada91/stock-analysis/blob/main/Resources/First_Code.png)
 
 ## Summary
 
 ### Advantages and Disadvantages of refactoring code in general.
 ### I think there are more advantages than disadvantages by refactoring a code, first the code will run fastier due to efficiency, the code will look cleaner and more organized. 
 
-! [vba_timer](.Refactored_timing.png)
+! [vba_timer](https://github.com/luismoncada91/stock-analysis/blob/main/Resources/Refactored_Timing.png)
 
 ### The main disadvantage that I found is that it takes much time, to analyze and reestrucutre all the code.
